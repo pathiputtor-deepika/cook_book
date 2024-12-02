@@ -1,0 +1,234 @@
+{
+  "health_recipes": [
+    {
+      "id": "0fd7",
+      "name": "Banana Pancake",
+      "ingredients": [
+        {
+          "name": "Banana",
+          "quantity": "1"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "2"
+        }
+      ],
+      "instructions": [
+        "Mash the banana in a bowl.\n",
+        "Whisk in the eggs until smooth.",
+        "Heat a non-stick pan over medium heat and cook small pancakes for 1–2 minutes per side"
+      ],
+      "url": "https://www.allthingsmamma.com/wp-content/uploads/2022/05/Banana-Pancakes-Hero-15-scaled.jpg"
+    },
+    {
+      "id": "1fd4",
+      "name": "Fruit Yogurt Bowl",
+      "ingredients": [
+        {
+          "name": "Yogurt",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Fresh Fruit",
+          "quantity": "1 cup"
+        }
+      ],
+      "instructions": [
+        "Scoop yogurt into a bowl.",
+        "Top with your choice of fruit.",
+        "Enjoy as a refreshing snack!"
+      ],
+      "url": "https://data.thefeedfeed.com/recommended/post_5397867.jpeg"
+    },
+    {
+      "id": "704b",
+      "name": "Avocado Toast",
+      "ingredients": [
+        {
+          "name": "Whole-grain bread",
+          "quantity": "1 slice"
+        },
+        {
+          "name": "Avocado",
+          "quantity": "1"
+        },
+        {
+          "name": "Salt and pepper",
+          "quantity": "As required"
+        }
+      ],
+      "instructions": [
+        "Toast the bread slice.",
+        "Spread mashed avocado on top and sprinkle with salt and pepper.",
+        "Optional: Add a poached egg for extra protein."
+      ],
+      "url": "https://www.jessicagavin.com/wp-content/uploads/2020/07/avocado-toast-11-1024x1536.jpg"
+    },
+    {
+      "id": "f7a5",
+      "name": "Quinoa Salad",
+      "ingredients": [
+        {
+          "name": "cooked quinoa",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Chopped vegetables",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": " Olive oil and lemon juice",
+          "quantity": "1 tbsp "
+        }
+      ],
+      "instructions": [
+        "Mix cooked quinoa with chopped vegetables.",
+        "Drizzle with olive oil and lemon juice.",
+        "Toss well and serve chilled or at room temperature."
+      ],
+      "url": "https://cdn.loveandlemons.com/wp-content/uploads/2020/08/quinoa-salad.jpg"
+    },
+    {
+      "id": "07bb",
+      "name": "Spinach and Egg Scramble",
+      "ingredients": [
+        {
+          "name": "Eggs",
+          "quantity": "2"
+        },
+        {
+          "name": "Fresh Spinach",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": "1 tsp"
+        }
+      ],
+      "instructions": [
+        "Heat olive oil in a pan and sauté spinach until wilted.",
+        "Add beaten eggs and cook, stirring, until scrambled.",
+        "Serve hot with whole-grain toast."
+      ],
+      "url": "https://images.eatthismuch.com/img/905630_elm333_5bceb318-0dc9-4d99-8a82-a92b3fa9e088.jpg"
+    }
+  ],
+  "fast_foods": [
+    {
+      "id": "0",
+      "name": "Pasta",
+      "ingredients": [
+        {
+          "name": "Pasta",
+          "quantity": "200 grams"
+        },
+        {
+          "name": "Tomato",
+          "quantity": "3 medium-sized, finely chopped"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "3 cloves, minced"
+        }
+      ],
+      "instructions": [
+        "Boil pasta in a large pot of salted water for 8-10 minutes or until al dente",
+        "Heat 2 tablespoons of olive oil in a pan over medium heat.",
+        "Serve hot with optional grated Parmesan cheese."
+      ],
+      "url": "https://www.yayforfood.com/wp-content/uploads/black-pepper-parmesan-spaghetti-with-garlic-roasted-tomatoes-featured-1024x683.jpg.webp"
+    },
+    {
+      "id": "955a",
+      "name": "Loaded Cheese Fries",
+      "ingredients": [
+        {
+          "name": "Frozen French fries",
+          "quantity": "500g"
+        },
+        {
+          "name": "Shredded Cheese",
+          "quantity": "1 Cup"
+        },
+        {
+          "name": "Bacon or green onion",
+          "quantity": "handful"
+        }
+      ],
+      "instructions": [
+        "Bake or fry the French fries according to the package instructions.",
+        "Sprinkle shredded cheese over the hot fries and let it melt.",
+        "Top with bacon bits or green onions for extra flavor."
+      ],
+      "url": "https://www.spendwithpennies.com/wp-content/uploads/2022/08/Loaded-Cheese-Fries-SpendWithPennies-6.jpg"
+    },
+    {
+      "id": "e636",
+      "name": "Hot Dog Roll-Ups",
+      "ingredients": [
+        {
+          "name": "Hot dog sausages",
+          "quantity": "3"
+        },
+        {
+          "name": "puff pastry",
+          "quantity": "250g"
+        }
+      ],
+      "instructions": [
+        "Wrap each sausage with a strip of crescent roll dough",
+        "Bake at 375°F (190°C) until golden brown (about 12 minutes)",
+        "Serve with ketchup or mustard"
+      ],
+      "url": "https://www.tasteofhome.com/wp-content/uploads/2017/10/exps16436_FF163882C01_13_3b-1.jpg"
+    },
+    {
+      "id": "f8c0",
+      "name": "Masala Maggie",
+      "ingredients": [
+        {
+          "name": "Maggi or instant noodles",
+          "quantity": "1 pack"
+        },
+        {
+          "name": "onion",
+          "quantity": "1"
+        },
+        {
+          "name": "red chili powder or garam masala",
+          "quantity": "1/2 tsp"
+        }
+      ],
+      "instructions": [
+        "Cook the Maggi noodles with the tastemaker as per the package instructions.",
+        "In a pan, sauté onions with a bit of oil and add chili powder or garam masala.",
+        "Mix the cooked noodles with the spiced onions and serve hot."
+      ],
+      "url": "https://vegecravings.com/wp-content/uploads/2020/01/Vegetable-Masala-Maggi-Recipe-Step-By-Step-Instructions-scaled.jpg"
+    },
+    {
+      "id": "508a",
+      "name": "Pizza Wrap",
+      "ingredients": [
+        {
+          "name": "Tortilla or flatbread",
+          "quantity": "1"
+        },
+        {
+          "name": "Pizza Sauce",
+          "quantity": "2 tbsp"
+        },
+        {
+          "name": "shredded mozzarella cheese",
+          "quantity": "1/2 cup"
+        }
+      ],
+      "instructions": [
+        "Spread pizza sauce over the tortilla.",
+        "Sprinkle with mozzarella cheese.",
+        "Fold the tortilla in half and heat it in a pan until the cheese melts."
+      ],
+      "url": "https://recipesblob.oetker.co.uk/assets/b33152414a684a9f83f90898c943f3b4/1272x764/pizza-wrap-2-3.jpg"
+    }
+  ]
+}
